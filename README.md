@@ -7,9 +7,7 @@
   <img align="left" alt="Pulkit Tyagi | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-
-
-
+<br/>
 
 ## About Me
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in Mechanical Engineering and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
