@@ -21,7 +21,7 @@
 - 💬 Ask me about Graphic Novels (PS:- **Batman: The Killing Joke** is the best one.)
 - 😄 Pronouns: Bearded Chap
 -  📫 How to reach me **ptyagi1551@gmail.com**
-- ⚡ Know More: <a href="https://pulkit-portfolio.vercel.app/">Pulkit Portfolio</a> 
+- ⚡ Know More: <a href="https://pulkit-portfolio.vercel.app/">Pulkit's Portfolio</a> 
 
 ## 🚀 Languages and Tools:
 
