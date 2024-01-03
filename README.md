@@ -1,9 +1,3 @@
-## Hi! There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br/>
-<br/>
-
-
 ## About Me
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in Mechanical Engineering and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
