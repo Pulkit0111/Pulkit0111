@@ -1,14 +1,13 @@
 ## About Me
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in Mechanical Engineering and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>Passionate Full Stack & AI Engineer with expertise in building scalable web applications and AI-driven solutions.<b> I thrive on solving complex problems, architecting intelligent systems, and driving innovation in GenAI and AI Engineering. Having mentored 2,000+ aspiring developers, I am committed to simplifying complex tech concepts.Seeking a challenging role where I can contribute effectively while continuously learning and delivering impact.
 
 
-- 🔭 Proficient in **MERN Stack**
+- 🔭 Proficient in **MERN Stack.**
 - 🌱 Proficient in **Data Structures and Algorithms.**
+- 🚀 Bridging **AI, GenAI & Web3 Innovation.**
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
 - 💬 Ask me about Graphic Novels (PS:- **Batman: The Killing Joke** is the best one.)
-- 😄 Pronouns: Bearded Chap
--  📫 How to reach me **ptyagi1551@gmail.com**
-- ⚡ Know More: <a href="https://pulkit-portfolio.vercel.app/">Pulkit's Portfolio</a> 
+-  📫 How to reach me **pulkit.tyagi0111@gmail.com**
 
 ## 🚀 Languages and Tools:
 
