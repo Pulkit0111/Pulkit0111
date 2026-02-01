@@ -19,7 +19,6 @@ I love working at the intersection of:
 
 💬 Ask me about: RAG, LangChain Componets, LangGraph workflows, LLM tool-calling, n8n automations, and scalable backend design.  
 📫 Reach me at: **pulkit.tyagi0111@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/pulkit0111  
 
 ## 🛠️ Tech Stack & Skills
 
