@@ -24,49 +24,38 @@ I love working at the intersection of:
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/officel/80/000000/react.png" alt="React" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
 </p>
 
 ### 🧩 Backend
 <p>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/1iNTYCwpI2.webp" alt="Express" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
 </p>
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ### 🧰 Tools
 <p>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git,npm,postman" />
 </p>
 
 ### 🧠 Agentic Tools & Flowgramming Tools
 <p>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/FzfvR5swV3.webp" alt="Cursor" width="48" height="48"/>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/VV85rxdHY3.jpeg" alt="Antigravity" width="48" height="48"/>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/NpNO-3qfD1.png" alt="Claude Code" width="48" height="48"/>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/4kCV3tNhPH.png" alt="n8n" width="120" height="120"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-5B6EE1?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ### ⚡ Agentic AI Development
 <p>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/GU273Z-uo8.png" alt="OpenAI" height="48"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="48" height="48"/>
-  <img src="https://pub-745a304a683748a79fecb5183dd3327b.r2.dev/f7e718e9-553f-4983-930f-8371988ca5f6/Aof1sWTbkc.png" alt="CrewAI" width="120" height="120"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2D4059?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" alt="CrewAI" />
 </p>
 
 ## 🚀 What I have worked with
